@@ -29,7 +29,7 @@ namespace Еще_одна_попытка_в_геологию
                 Close();
             }
         }
-//Проверка синхронизации с Github
+        
         private void Form6_Load(object sender, EventArgs e)
         {
             st = -1;//Я ошибся и никакого создания новой диаграммы пока не планирую.
